@@ -1,0 +1,32 @@
+{
+  "name": "webpack-workshop",
+  "version": "1.0.0",
+  "description": "https://presentations.survivejs.com/webpack-the-good-parts/",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "eslint-loader": "^1.9.0",
+    "eslint": "^4.2.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "style-loader": "^0.18.2",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.2.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/survivejs-sessions/fullstack2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/survivejs-sessions/fullstack2017/issues"
+  },
+  "homepage": "https://github.com/survivejs-sessions/fullstack2017#readme"
+}
